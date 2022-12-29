@@ -1,3 +1,9 @@
+# Install
+
+```
+npm i encurtanet
+```
+
 # Simple use example
 
 ```js
