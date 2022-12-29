@@ -1,0 +1,25 @@
+{
+  "name": "encurtanet",
+  "version": "1.0.2",
+  "description": "Um simples wrapper NÃO OFICIAL da API do EncurtaNet para JavaScript",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "tsc --declaration",
+    "dev": "ts-node test.ts"
+  },
+  "keywords": ["encurtanet", "wrapper", "api"],
+  "author": "Marcuth",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Marcuth/encurtanet-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1Marcuth/encurtanet-js/issues"
+  },
+  "homepage": "https://github.com/1Marcuth/encurtanet-js#readme",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
